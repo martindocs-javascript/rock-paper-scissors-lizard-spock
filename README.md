@@ -8,7 +8,7 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
 - Maintain the state of the score after refreshing the browser 
 - Best score for the game
 - Reset game button ⟳  
-- Five lives ❤ per game, which can be reset during the game, but at the expense of resetting the overall score
+- Five lives ❤ per game, can be reset during the game, but at the expense of resetting the overall score
 
 ## Installation
 
