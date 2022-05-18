@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <link rel="icon" type="image/png" sizes="32x32" href="./img/favicon-32x32.png">
+  <link rel="stylesheet" href="./css/main.css">
+  
+  <title>Marcin Tatarski | Rock, Paper, Scissors, Lizard, Spock</title>
+    <div class="container">
+      <div class="lside"></div>
+      <div>        
+        <header>
+          <h1 class="logo"></h1>
+          <div class="score-container">
+            <div class="score-header">              
+              <h2>score</h2>
+              <div title="score board help" class="score-help">?</div>
+              <div title="reset lives" id="reset-lives" class="reset-lives" data-lives="false"></div>
+            </div>            
+            <div id="score-total" class="score-total">0</div>
+            <div class="score-footer">
+              <div class="lives">
+                <h3>lives</h3>
+                <div>
+                  <div id="lives-left"></div>
+                </div>
+              </div>
+              <div class="best">
+                <h3>best</h3>
+                <div class="best-score"></div>
+              </div>
+            </div>
+          </div>
+        </header>
+        <article>
+          <!-- main pick -->
+          <div class="main-pick">
+            <div id="game-container" class="game-container">
+              <div class="game-top">
+                <div class="game-top-sides">
+                  <div class="icon-outline icon-bg" data-icon="spock"></div>                
+                </div>
+                <div class="game-top-middle">
+                  <div class="icon-outline icon-bg" data-icon="scissors"></div>                          
+                </div>
+                <div class="game-top-sides">
+                  <div class="icon-outline icon-bg" data-icon="paper"></div> 
+                </div>
+              </div>
+              <div class="game-bottom">
+                <div class="icon-outline icon-bg" data-icon="lizard"></div>   
+                <div class="icon-outline icon-bg" data-icon="rock"></div>  
+              </div>
+            </div>   
+          </div>      
+          <!-- main result  -->
+          <div class="main-result">
+            <div id="game-play-narrow" class="game-play-narrow">            
+              <div id="you-picked" class="you-picked">
+                <h3 class="you">you picked</h3>
+                <div class="icon-outline icon-bg"></div> 
+              </div>
+              <div class="score-middle">
+                <div id="score" class="score">
+                  <h4 id="score-result" class="score-result"></h4>
+                  <div class="play-btn">
+                    <span id="play-again" class="play-again">play again</span>
+                  </div>                  
+                </div>
+              </div>
+              <div id="house-picked" class="house-picked">
+                <h3 class="house">the house picked</h3>                
+                <div class="empty-outline">
+                  <div class="empty-icon"></div>
+                </div>
+                <div class="icon-outline icon-bg"></div>  
+              </div>
+            </div>
+          </div>          
+          <!-- rules btn -->
+          <div class="rules" id="rules">rules</div>          
+        </article>
+      </div>
+      <div class="rside"></div>
+      <footer class="attribution">
+        Challenge by <a href="https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH/hub/rock-paper-scissors-game-rkWvKtxU5" target="_blank">Frontend Mentor</a>. 
+        Coded by <a href="http://marcin-tatarski.com"> Marcin Tatarski</a>.
+      </footer>
+    </div>
+
+    <!-- modal rules & help -->
+    <div class="modal-container">
+      <div class="modal-bg">
+          <div class="modal-header">
+            <h3>rules</h3>
+            <div id="modal-cancel" class="modal-cancel"></div>
+          </div>
+          <div id="modal-img"></div>
+      </div>
+    </div>
+
+    <!-- reset game -->
+    <div class="reset-container">
+      <div class="reset-bg">
+          <h3>game over</h3>
+          <div id="start-again" class="start-again">Start Again</div>     
+          <div class="reset-game">
+            <div>
+              <div id="no" class="no">no</div>
+              <div id="yes" class="yes">yes</div>
+            </div>            
+          </div>     
+      </div>
+    </div>    
+  <script src="./js/main.js"></script>  
+</head>
+</body>
+</html>

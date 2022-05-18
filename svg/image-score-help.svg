@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="304"
+   height="270"
+   version="1.1"
+   id="svg86"
+   sodipodi:docname="image-score-help.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview88"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.644678"
+     inkscape:cx="182.40653"
+     inkscape:cy="188.18274"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="45"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g84" />
+  <defs
+     id="defs12">
+    <linearGradient
+       id="a"
+       x1="52.785468"
+       x2="52.785468"
+       y1="0"
+       y2="105.57094"
+       gradientTransform="matrix(1.0076447,0,0,0.99241326,337.13485,74.734327)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#FFF"
+         stop-opacity=".097"
+         id="stop2" />
+      <stop
+         offset="100%"
+         stop-color="#FFF"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       x1="50%"
+       x2="50%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="#FFF"
+         stop-opacity=".097"
+         id="stop7" />
+      <stop
+         offset="100%"
+         stop-color="#FFF"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g84">
+    <text
+       fill="#b1b4c5"
+       font-family="BarlowSemiCondensed-Bold, 'Barlow Semi Condensed'"
+       font-size="13px"
+       font-style="condensed"
+       font-weight="bold"
+       id="text50"
+       style="font-size:37.3333px"
+       x="-44.884968"
+       y="5.0106192"><tspan
+         x="89.115028"
+         y="36.010616"
+         id="tspan48"
+         style="font-size:37.3333px">SCORE</tspan></text>
+    <text
+       fill="#b1b4c5"
+       font-family="BarlowSemiCondensed-Bold, 'Barlow Semi Condensed'"
+       font-size="13px"
+       font-style="condensed"
+       font-weight="bold"
+       id="text54"
+       x="86.160339"
+       y="-24.709438"
+       style="font-size:85.3333px"><tspan
+         x="126.16035"
+         y="122.29057"
+         id="tspan52"
+         style="font-size:85.3333px">0</tspan></text>
+    <g
+       fill="#b1b4c5"
+       transform="matrix(0.37594708,0.92664113,0.92664113,-0.37594708,11.467002,174.48626)"
+       id="g74">
+      <rect
+         width="50"
+         height="4"
+         y="10"
+         rx="2"
+         id="rect68"
+         x="0" />
+      <path
+         d="m 41.963,2.015 8.59,8.728 c 0.716,0.727 0.71,1.896 -0.013,2.616 a 1.833,1.833 0 0 1 -2.6,-0.013 L 39.35,4.618 a 1.855,1.855 0 0 1 0.013,-2.616 1.833,1.833 0 0 1 2.6,0.013 z"
+         id="path70" />
+      <path
+         d="m 39.35,19.382 8.59,-8.728 a 1.833,1.833 0 0 1 2.6,-0.013 c 0.723,0.72 0.729,1.889 0.013,2.616 l -8.59,8.728 a 1.833,1.833 0 0 1 -2.6,0.013 1.855,1.855 0 0 1 -0.013,-2.616 z"
+         id="path72" />
+    </g>
+    <text
+       fill="#b1b4c5"
+       font-family="BarlowSemiCondensed-Bold, 'Barlow Semi Condensed'"
+       font-size="13px"
+       font-style="condensed"
+       font-weight="bold"
+       id="text50-3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:BarlowSemiCondensed-Bold, 'Barlow Semi Condensed';-inkscape-font-specification:'BarlowSemiCondensed-Bold, Barlow Semi Condensed, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b1b4c5"
+       x="39.293903"
+       y="242.29147"><tspan
+         sodipodi:role="line"
+         id="tspan6082"
+         x="39.293903"
+         y="242.29147">LIVES</tspan></text>
+    <text
+       fill="#b1b4c5"
+       font-family="BarlowSemiCondensed-Bold, 'Barlow Semi Condensed'"
+       font-size="13px"
+       font-style="condensed"
+       font-weight="bold"
+       id="text54-7"
+       x="19.385361"
+       y="121.95131"
+       style="font-size:21.3333px;fill:#8a90ac;fill-opacity:1"><tspan
+         x="59.385368"
+         y="268.95129"
+         id="tspan52-5"
+         style="font-size:21.3333px;fill:#8a90ac;fill-opacity:1">0</tspan></text>
+    <text
+       fill="#b1b4c5"
+       font-family="BarlowSemiCondensed-Bold, 'Barlow Semi Condensed'"
+       font-size="13px"
+       font-style="condensed"
+       font-weight="bold"
+       id="text50-3-3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:BarlowSemiCondensed-Bold, 'Barlow Semi Condensed';-inkscape-font-specification:'BarlowSemiCondensed-Bold, Barlow Semi Condensed, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b1b4c5"
+       x="213.50343"
+       y="243.30154"><tspan
+         sodipodi:role="line"
+         id="tspan10346"
+         x="213.50343"
+         y="243.30154">BEST</tspan></text>
+    <text
+       fill="#b1b4c5"
+       font-family="BarlowSemiCondensed-Bold, 'Barlow Semi Condensed'"
+       font-size="13px"
+       font-style="condensed"
+       font-weight="bold"
+       id="text54-7-6"
+       x="189.79597"
+       y="121.40185"
+       style="font-size:21.3333px;fill:#8a90ac;fill-opacity:1"><tspan
+         x="229.79597"
+         y="268.40182"
+         id="tspan52-5-2"
+         style="font-size:21.3333px;fill:#8a90ac;fill-opacity:1">0</tspan></text>
+    <text
+       fill="#b1b4c5"
+       font-family="BarlowSemiCondensed-Bold, 'Barlow Semi Condensed'"
+       font-size="13px"
+       font-style="condensed"
+       font-weight="bold"
+       id="text50-3-9-2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:BarlowSemiCondensed-Bold, 'Barlow Semi Condensed';-inkscape-font-specification:'BarlowSemiCondensed-Bold, Barlow Semi Condensed, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b1b4c5"
+       x="202.14412"
+       y="180.186"><tspan
+         sodipodi:role="line"
+         id="tspan37185"
+         x="202.14412"
+         y="180.186"
+         style="font-size:13.3333px">BEST SCORE</tspan></text>
+    <text
+       fill="#b1b4c5"
+       font-family="BarlowSemiCondensed-Bold, 'Barlow Semi Condensed'"
+       font-size="13px"
+       font-style="condensed"
+       font-weight="bold"
+       id="text50-3-9-2-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:BarlowSemiCondensed-Bold, 'Barlow Semi Condensed';-inkscape-font-specification:'BarlowSemiCondensed-Bold, Barlow Semi Condensed, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b1b4c5"
+       x="78.007324"
+       y="166.61624"><tspan
+         sodipodi:role="line"
+         id="tspan45449"
+         x="78.007324"
+         y="166.61624"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle">NUMBERS</tspan><tspan
+         sodipodi:role="line"
+         id="tspan45451"
+         x="78.007324"
+         y="183.28287"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle">OF ATTEMPTS</tspan></text>
+    <text
+       fill="#b1b4c5"
+       font-family="BarlowSemiCondensed-Bold, 'Barlow Semi Condensed'"
+       font-size="13px"
+       font-style="condensed"
+       font-weight="bold"
+       id="text50-3-9-2-3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:BarlowSemiCondensed-Bold, 'Barlow Semi Condensed';-inkscape-font-specification:'BarlowSemiCondensed-Bold, Barlow Semi Condensed, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b1b4c5"
+       x="239.30981"
+       y="68.252739"><tspan
+         sodipodi:role="line"
+         id="tspan21523"
+         x="239.30981"
+         y="68.252739"
+         style="text-align:center;text-anchor:middle">CURRENT</tspan><tspan
+         sodipodi:role="line"
+         id="tspan21525"
+         x="239.30981"
+         y="84.919365"
+         style="text-align:center;text-anchor:middle">SCORE</tspan></text>
+    <g
+       fill="#b1b4c5"
+       transform="matrix(-0.99997805,0.0066245,0.0066245,0.99997805,234.55471,80.921472)"
+       id="g74-5-4"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         width="108.37009"
+         height="4.0003247"
+         y="10.178945"
+         rx="4.3348041"
+         id="rect68-98-4"
+         x="-58.27565"
+         style="stroke-width:1.47227;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(0.99999363,-0.00356811,-0.0077329,0.9999701,0,0)" />
+      <path
+         d="m 41.963,2.015 8.59,8.728 c 0.716,0.727 0.71,1.896 -0.013,2.616 a 1.833,1.833 0 0 1 -2.6,-0.013 L 39.35,4.618 a 1.855,1.855 0 0 1 0.013,-2.616 1.833,1.833 0 0 1 2.6,0.013 z"
+         id="path70-4-4"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         d="m 39.35,19.382 8.59,-8.728 a 1.833,1.833 0 0 1 2.6,-0.013 c 0.723,0.72 0.729,1.889 0.013,2.616 l -8.59,8.728 a 1.833,1.833 0 0 1 -2.6,0.013 1.855,1.855 0 0 1 -0.013,-2.616 z"
+         id="path72-8-4"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       fill="#b1b4c5"
+       transform="matrix(0.37594708,0.92664113,0.92664113,-0.37594708,180.47074,174.3531)"
+       id="g74-1">
+      <rect
+         width="50"
+         height="4"
+         y="10"
+         rx="2"
+         id="rect68-7"
+         x="0" />
+      <path
+         d="m 41.963,2.015 8.59,8.728 c 0.716,0.727 0.71,1.896 -0.013,2.616 a 1.833,1.833 0 0 1 -2.6,-0.013 L 39.35,4.618 a 1.855,1.855 0 0 1 0.013,-2.616 1.833,1.833 0 0 1 2.6,0.013 z"
+         id="path70-5" />
+      <path
+         d="m 39.35,19.382 8.59,-8.728 a 1.833,1.833 0 0 1 2.6,-0.013 c 0.723,0.72 0.729,1.889 0.013,2.616 l -8.59,8.728 a 1.833,1.833 0 0 1 -2.6,0.013 1.855,1.855 0 0 1 -0.013,-2.616 z"
+         id="path72-9" />
+    </g>
+    <path
+       d="m 25.646245,23.304765 c -0.489,4.509 -4.306,8.021 -8.944,8.021 -2.698,0 -5.112,-1.194 -6.7629998,-3.075 l 1.2449998,-1.633 c 1.283,1.645 3.276,2.708 5.518,2.708 3.526,0 6.444,-2.624 6.923,-6.021 h -2.923 l 4,-5.25 4,5.25 z m -15.8639998,-1.979 c 0.4869998,-3.387 3.3999998,-6 6.9199998,-6 2.237,0 4.228,1.059 5.51,2.698 l 1.244,-1.632 c -1.65,-1.876 -4.061,-3.066 -6.754,-3.066 -4.632,0 -8.4429998,3.501 -8.9409998,8 h -3.059 l 4,5.25 3.9999998,-5.25 z"
+       id="path2"
+       style="fill:#8a90ac;fill-opacity:1" />
+    <text
+       fill="#b1b4c5"
+       font-family="BarlowSemiCondensed-Bold, 'Barlow Semi Condensed'"
+       font-size="13px"
+       font-style="condensed"
+       font-weight="bold"
+       id="text50-3-9-2-1-3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:BarlowSemiCondensed-Bold, 'Barlow Semi Condensed';-inkscape-font-specification:'BarlowSemiCondensed-Bold, Barlow Semi Condensed, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b1b4c5"
+       x="44.548565"
+       y="98.791344"><tspan
+         sodipodi:role="line"
+         id="tspan51059"
+         x="44.548565"
+         y="98.791344"
+         style="text-align:center;text-anchor:middle">RESET</tspan><tspan
+         sodipodi:role="line"
+         id="tspan51061"
+         x="44.548565"
+         y="115.45797"
+         style="text-align:center;text-anchor:middle">GAME</tspan></text>
+    <g
+       fill="#b1b4c5"
+       transform="matrix(-0.37594708,-0.92664114,-0.92664114,0.37594708,51.655601,80.133927)"
+       id="g74-4">
+      <rect
+         width="50"
+         height="4"
+         y="10"
+         rx="2"
+         id="rect68-76"
+         x="0" />
+      <path
+         d="m 41.963,2.015 8.59,8.728 c 0.716,0.727 0.71,1.896 -0.013,2.616 a 1.833,1.833 0 0 1 -2.6,-0.013 L 39.35,4.618 a 1.855,1.855 0 0 1 0.013,-2.616 1.833,1.833 0 0 1 2.6,0.013 z"
+         id="path70-3" />
+      <path
+         d="m 39.35,19.382 8.59,-8.728 a 1.833,1.833 0 0 1 2.6,-0.013 c 0.723,0.72 0.729,1.889 0.013,2.616 l -8.59,8.728 a 1.833,1.833 0 0 1 -2.6,0.013 1.855,1.855 0 0 1 -0.013,-2.616 z"
+         id="path72-1" />
+    </g>
+  </g>
+</svg>
