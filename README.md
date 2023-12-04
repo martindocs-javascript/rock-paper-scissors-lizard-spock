@@ -39,10 +39,6 @@ Pull requests are much appreciated and accepted.
 
 This project is a solution to the [Launch countdown timer challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH).
 
-## Contributions
-
-N/A (Open for contributions).
-
 ## License
 
 Please refer to the [LICENSE](./LICENSE.md) file in this repository for details on how this project is licensed.
